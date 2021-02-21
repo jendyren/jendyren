@@ -5,8 +5,8 @@ Hi, I'm Jendy - a student @**Stony Brook University** majoring in **Computer Sci
 ## My values
 <pre>
 💫 Positivity
-🍏 Beginner's mindset and curiosity
-💖 Connection/Relationships
+🍏 Beginner's mindset & curiosity
+💖 Bulding longlasting & meaningful relationships
 🙌 Closing the gender gap in CS
 </pre>
 
