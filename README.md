@@ -8,7 +8,7 @@ previously interned @**the new-york historical society** teaching high school gi
 
 i'm passionate about designing, building products/application that really make a positive impact, and finally just having fun with what i do! 👏
 
-## My values
+## my values
 <pre>
 💫 positivity
 🍏 beginner's mindset & curiosity
